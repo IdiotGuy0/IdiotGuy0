@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IdiotGuy0
-- 👀 I’m interested in python
+- 👀 I’m interested in python and AIML
 - 🌱 I’m currently learning PFD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
